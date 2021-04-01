@@ -1,0 +1,16 @@
+@import "./main.css";
+
+label {
+  font-size: 1rem;
+  font-style: italic;
+}
+
+input {
+  border: 1px solid rgb(112, 112, 112);
+  border-radius: 5px;
+}
+
+.id_container {
+  width: 100%;
+  text-align: center;
+}
